@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateOrder", "..\CreateOrder\CreateOrder.csproj", "{675E39CF-A059-437C-B0C6-D643233EBBFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateShipment", "CreateShipment\CreateShipment.csproj", "{24268934-353B-40CB-BD47-DD4C32E42926}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{675E39CF-A059-437C-B0C6-D643233EBBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{675E39CF-A059-437C-B0C6-D643233EBBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{675E39CF-A059-437C-B0C6-D643233EBBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24268934-353B-40CB-BD47-DD4C32E42926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24268934-353B-40CB-BD47-DD4C32E42926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24268934-353B-40CB-BD47-DD4C32E42926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24268934-353B-40CB-BD47-DD4C32E42926}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
